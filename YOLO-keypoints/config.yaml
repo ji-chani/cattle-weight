@@ -1,0 +1,11 @@
+# data
+path: /content/gdrive/My Drive/Graduate School/Research/Cattle Weight Estimation/YOLO-Keypoints/data
+train: images/train
+val: images/val
+
+# keypoints
+kpt_shape: [7, 2]  # [num keypts, num dim]
+
+# classes
+names:
+  0: cattle
